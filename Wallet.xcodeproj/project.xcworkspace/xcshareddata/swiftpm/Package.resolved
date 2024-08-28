@@ -1,0 +1,33 @@
+{
+  "originHash" : "db4be854aae75d2c44789fe84bd808c06b0e76f14b410de20ca64dfc031d6389",
+  "pins" : [
+    {
+      "identity" : "bigint",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/attaswift/BigInt.git",
+      "state" : {
+        "revision" : "793a7fac0bfc318e85994bf6900652e827aef33e",
+        "version" : "5.4.1"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "2ef543ee21d63734e1c004ad6c870255e8716c50",
+        "version" : "7.12.0"
+      }
+    },
+    {
+      "identity" : "wallet-core",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/trustwallet/wallet-core.git",
+      "state" : {
+        "revision" : "160a6e6275d25c0edb91823ae62c605d3d66c013",
+        "version" : "4.1.5"
+      }
+    }
+  ],
+  "version" : 3
+}
